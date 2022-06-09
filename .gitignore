@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Other Files
+*.list
+*.mk
+Makefile
+CM7/settings
+CM4/settings
